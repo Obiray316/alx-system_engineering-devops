@@ -1,0 +1,3 @@
+shell basics command
+
+clear
